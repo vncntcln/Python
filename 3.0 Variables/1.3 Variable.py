@@ -1,12 +1,11 @@
 # Variable cannot written in special symbols / start with number
 
 # Overwrite variable
-
 age = 42
 age = 24 - 6
 print(age)
 
-
+# Print variable 8 times
 a = 8
 name = "Bob"
 
